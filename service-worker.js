@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/StarluxPage/precache-manifest.9976bfee9ef6944dbc8fd667fbe478c3.js"
+  "/StarluxPage/precache-manifest.f15ff99544b85056fb642b6791570e09.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "starlux"});
