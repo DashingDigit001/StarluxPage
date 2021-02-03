@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b838f343d3e8b104e58d",
+    "revision": "0572e275c1f6b7705886",
     "url": "/StarluxPage/css/app.972019e0.css"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/img/组 59-min.3602e619.png"
   },
   {
-    "revision": "b20ec544629c97b59332531d0f4fee72",
+    "revision": "7d41b7b7086bf8eeb539b62f930f5956",
     "url": "/StarluxPage/index.html"
   },
   {
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/js/about.3fb053c7.js"
   },
   {
-    "revision": "b838f343d3e8b104e58d",
-    "url": "/StarluxPage/js/app.bfb2af4f.js"
+    "revision": "0572e275c1f6b7705886",
+    "url": "/StarluxPage/js/app.cdb0d86e.js"
   },
   {
     "revision": "57483b14e874788a1202",
