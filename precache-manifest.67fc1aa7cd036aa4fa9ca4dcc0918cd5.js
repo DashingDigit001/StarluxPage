@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c664cae4894810ec303e",
-    "url": "/StarluxPage/css/app.a7fc013c.css"
+    "revision": "64462abf0487b846f6cd",
+    "url": "/StarluxPage/css/app.2b0dc071.css"
   },
   {
     "revision": "d16119fb93ee98bb35cb",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/img/20210115-DSCF9615-2-min-mb.3458e0d1.png"
   },
   {
-    "revision": "e8db49e47c657d2ae07934c5bd425735",
-    "url": "/StarluxPage/img/20210115-DSCF9615-2-min.e8db49e4.png"
+    "revision": "1324553389b3790f285e486532f03f49",
+    "url": "/StarluxPage/img/20210115-DSCF9615-2-min.13245533.png"
   },
   {
     "revision": "d38d75d814f6c0166efce58cba6b0263",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "319b0340e81d7a1a98ff4cb9819d165c",
     "url": "/StarluxPage/img/all-pic4.319b0340.png"
+  },
+  {
+    "revision": "918b8ffb981b6f05c16f16b4651bcf99",
+    "url": "/StarluxPage/img/all-v.918b8ffb.svg"
   },
   {
     "revision": "68a60ac2715c1fb067798781522e67ba",
@@ -180,7 +184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/img/组 59-min.3602e619.png"
   },
   {
-    "revision": "1f80dea21310afa2a9d6165ac965c3e2",
+    "revision": "2d136bcedbdfa3d279f7c3248dca5ca7",
     "url": "/StarluxPage/index.html"
   },
   {
@@ -188,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/js/about.b82704fe.js"
   },
   {
-    "revision": "c664cae4894810ec303e",
-    "url": "/StarluxPage/js/app.56b34fdb.js"
+    "revision": "64462abf0487b846f6cd",
+    "url": "/StarluxPage/js/app.0e96612a.js"
   },
   {
     "revision": "d16119fb93ee98bb35cb",
