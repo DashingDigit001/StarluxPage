@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c944ae125697728d487",
-    "url": "/StarluxPage/css/app.6337353a.css"
+    "revision": "e1a77cdb7835dc638045",
+    "url": "/StarluxPage/css/app.fef5d6e4.css"
   },
   {
     "revision": "10924ffc27a45f24a058",
@@ -180,6 +180,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/img/necklace.e454ff1d.jpg"
   },
   {
+    "revision": "1fc54d1dbf82a8219d1ae174b03d5d46",
+    "url": "/StarluxPage/img/p1.1fc54d1d.png"
+  },
+  {
+    "revision": "713efff5e542ff977593734176f3b4c1",
+    "url": "/StarluxPage/img/p11.713efff5.png"
+  },
+  {
+    "revision": "9cece4d57b84a3fe9c9fe667e21fbbfd",
+    "url": "/StarluxPage/img/p22.9cece4d5.png"
+  },
+  {
     "revision": "4abdbd9d897022e9d85dac62dc4135f9",
     "url": "/StarluxPage/img/影子-min-3.4abdbd9d.png"
   },
@@ -192,19 +204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/img/影子3-min.dfdc2164.png"
   },
   {
-    "revision": "a36ab93f55a907c82b99910be8d7d015",
-    "url": "/StarluxPage/img/组 59-2-min.a36ab93f.png"
-  },
-  {
-    "revision": "29a03a33c1e65eb39eb187ae2fc62d70",
-    "url": "/StarluxPage/img/组 59-3-min.29a03a33.png"
-  },
-  {
-    "revision": "3602e619d27cb4e23e3c65e4b9b4e105",
-    "url": "/StarluxPage/img/组 59-min.3602e619.png"
-  },
-  {
-    "revision": "2c4e413b7f1f295168c33cc9bdaea5b5",
+    "revision": "d03d9aaa9da13f51acfaf1d13054ae59",
     "url": "/StarluxPage/index.html"
   },
   {
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarluxPage/js/about.ef78c296.js"
   },
   {
-    "revision": "3c944ae125697728d487",
-    "url": "/StarluxPage/js/app.a9d39e7d.js"
+    "revision": "e1a77cdb7835dc638045",
+    "url": "/StarluxPage/js/app.e8c54512.js"
   },
   {
     "revision": "10924ffc27a45f24a058",
